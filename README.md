@@ -1,8 +1,8 @@
 # delta-demo
-this is demo for git and github class.
+ this is demo for git demo
 
-# html
-the name of rm
+# TEACHER
+shadha khapra
 
-# the 
-csssssss
+# student
+aryan
